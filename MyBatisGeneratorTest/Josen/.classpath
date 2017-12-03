@@ -23,10 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySqlJDBC">
-		<attributes>
-			<attribute name="annotationpath" value="H:/OpenSource/mysql-connector-java-5.1.45-bin.jar"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="H:/OpenSource/mysql-connector-java-5.1.45-bin.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
